@@ -41,6 +41,7 @@ The following is a list of areas of focus that an issue falls under:
 * code
 * security
 * documentation
+* integration
 
 ## Roadmap Stages
 The roadmap is arranged on a project board to give a sense of potential dates of completion. Columns are broken up by quarter, showing projections for the current quarter and next 3 quarters. Be sure to read the disclaimer below since the roadmap is subject to change, especially further out on the timeline. Items on the furthest right column, called Future, have no current expected ship date and will be added/moved/removed from the board as needed.
