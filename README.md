@@ -7,7 +7,9 @@ Every item on the roadmap is a read-only issue, with a label that indicates each
 
 * A release phase that describes the current phase of the roadmap item. See below for a guide to release phases.
 
-* A feature that indicates the feature or product to which the item belongs. For a list of current features, see below.
+* The product to which the item belongs. For a list of current products, see below.
+
+* The area of focus that the roadmap item is associated with. A list of current areas of focus can be found below.
 
 As issues become generally available to the public, they will be closed. A list of all current and closed issues can be found on the issues tab.
 
