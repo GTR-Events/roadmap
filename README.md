@@ -26,13 +26,13 @@ Ready for production use and fully documented.
 ## Products
 The following is a list of our current product areas:
 
-* gtr-register
-* gtr-badges
-* gtr-evals
-* gtr-leads
-* gtr-track
-* gtr-admin
-* gtr-all
+* gtr register
+* gtr badges
+* gtr evals
+* gtr leads
+* gtr track
+* gtr admin
+* gtr all
 
 ## Areas of Focus
 The following is a list of areas of focus that an issue falls under:
